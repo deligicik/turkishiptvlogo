@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<rss version="0.91">
+	<channel>
+		<title>deli_gicik FireTVStick Newsfeed</title>
+		<description>Nachrichten über die Updates für die Kunden</description>
+		<language>de</language>
+		<link></link>
+		
+		<image>
+		
+		<image>
+		
+		<item>
+			<title>Test Newsfeed</title>
+			<pubdate>18 Februar 2016<pubdate>
+			<description>Nachrichten über die Updates für die Kunden</description>
+			<link></link>
+		</item>	
+	</channel>
+</rss>
