@@ -2,19 +2,19 @@
 
 <rss version="0.91">
 	<channel>
-		<title>deli_gicik FireTVStick Newsfeed: Star TV, NTV ve NTVSpor yayini suan mevcut degildir.</title>
+		<title>deli_gicik FireTVStick Newsfeed</title>
 		<description>Nachrichten ueber die Updates fuer die Kunden</description>
 		<language>de</language>
 		<link></link>
 		
 		<image>
 		
-		<image>
+		</image>
 		
 		<item>
-			<title>Test Newsfeed</title>
+			<title>Türk Kanallari</title>
 			<pubdate>18 Februar 2016<pubdate>
-			<description>Nachrichten ueber die Updates fuer die Kunden</description>
+			<description>Star TV, NTV ve NTVSpor yayini suan mevcut degildir!</description>
 			<link></link>
 		</item>	
 	</channel>
