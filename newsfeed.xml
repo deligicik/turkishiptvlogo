@@ -4,8 +4,8 @@
 	<channel>
 		<title>deli_gicik FireTVStick Newsfeed</title>
 		<description>Nachrichten ueber die Updates fuer die Kunden</description>
-		<language>de</language>
-		<link></link>
+		<language>de-de</language>
+		<copyright>by deli_gicik</copyright>
 		
 		<image>
 		
@@ -13,9 +13,9 @@
 		
 		<item>
 			<title>T&#252;rk Kanallari</title>
-			<pubDate>Mon, 15 Feb 2016</pubDate>
 			<description>Star TV, NTV ve NTVSpor yayini suan mevcut degildir!</description>
 			<link></link>
+			<pubDate>Mon, 15 Feb 2016</pubDate>
 		</item>	
 	</channel>
 </rss>
