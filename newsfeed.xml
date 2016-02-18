@@ -12,10 +12,16 @@
 		</image>
 		
 		<item>
-			<title>Tuerk Kanallari</title>
+			<title>Star TV, NTV ve NTVSpor yayini suan mevcut degildir!</title>
 			<link></link>
-			<description>Star TV, NTV ve NTVSpor yayini suan mevcut degildir!</description>
+			<description>Goestermeyen Kanallar</description>
 			<pubDate>Mon, 15 Feb 2016</pubDate>
-		</item>	
+		</item>
+		<item>
+			<title>Iletisim icin: deli_gicik@hotmail.de</title>
+			<link></link>
+			<description>Info</description>
+			<pubDate>Mon, 15 Feb 2016</pubDate>
+		</item>			
 	</channel>
 </rss>
